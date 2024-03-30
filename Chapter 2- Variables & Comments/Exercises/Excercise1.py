@@ -1,5 +1,5 @@
-Name = "Tallal"
+Name = "My name is Tallal"
 print(Name)
 
-Name = "Tallal khan tatari"
+Name = "My new name is Tallal khan tatari"
 print(Name)
